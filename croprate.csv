@@ -1,0 +1,15 @@
+region,paddy_rice,barley,legumes,bean,vegetable,flower,special purpose crop,fruit tree
+Busan,0,0,8,0,12,0,7,9
+Daegu,7,0,6,0,18,0,8,9
+Incheon,23,5,28,10,35,0,12,12
+Ulsan,22,4,9,6,25,0,8,17
+Sejong,16,0,8,5,10,0,8,11
+Gyeonggi,154,72,117,93,246,31,193,103
+Gangwon,81,190,168,139,392,18,220,143
+Chungcheongbuk,96,90,149,120,310,8,233,243
+Chungcheongnam,362,68,220,221,536,14,337,205
+Jeollabuk,418,88,114,171,354,31,229,200
+Jeollanam,584,134,188,211,620,69,265,392
+Gyeongsangbuk,377,67,147,221,567,17,357,680
+Gyeongsangnam,325,67,115,115,464,25,226,337
+Jeju,X,14,4,10,32,0,7,63
